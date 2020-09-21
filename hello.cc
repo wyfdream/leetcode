@@ -10,7 +10,7 @@ int main()
   int f=10;
 
   int f=11;
-
+  int x=12;
   cout<<"hello world"<<endl;
   return 0;
 }
